@@ -1,0 +1,6 @@
+providers/
+rules/
+*.bak
+__pycache__/
+.DS_Store
+cache.db
